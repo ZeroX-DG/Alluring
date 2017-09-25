@@ -12,7 +12,7 @@ yarn install
 electron .
 ```
 
-To know how it work, you can read [my post](https://medium.com/p/606e66b2a929).
+To know how it work, you can read [my post](https://medium.com/@nguynvithng_34102/the-making-of-a-wallpaper-changing-app-with-electron-and-vue-js-606e66b2a929).
 
 ## Contact
 
