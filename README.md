@@ -8,9 +8,6 @@
 # install dependencies
 yarn install
 
-# using webpack
-webpack
-
 # run the app
 electron .
 ```
