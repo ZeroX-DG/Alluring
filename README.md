@@ -16,5 +16,4 @@ To know how it work, you can read [my post](https://medium.com/@nguynvithng_3410
 
 ## Contact
 
-Facebook: https://www.facebook.com/ZeroXCEH <br>
-Gmail: viethungax@gmail.com OR hunggarena12@gmail.com
+Gmail: viethungax@gmail.com
