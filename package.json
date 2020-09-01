@@ -10,7 +10,7 @@
   },
   "main": "elect.js",
   "dependencies": {
-    "buefy": "^0.5.2",
+    "buefy": "^0.9.2",
     "electron": "^1.7.6",
     "vue": "^2.3.3",
     "wallpaper": "^2.5.0"
